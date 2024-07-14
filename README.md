@@ -40,28 +40,13 @@ The **Dynamic Data Dashboard** is a Streamlit-based web application designed to 
 - `app.py`: The main application file containing the Streamlit code.
 - `requirements.txt`: A list of Python dependencies required to run the application.
 
-## Example
-1. **Upload your file**:
-    ![Upload File](images/upload.png)
-2. **Filter data**:
-    ![Filter Data](images/filter.png)
-3. **View filtered data**:
-    ![Filtered Data](images/filtered_data.png)
-4. **Data statistics**:
-    ![Data Statistics](images/statistics.png)
-5. **Data visualization**:
-    ![Data Visualization](images/visualization.png)
 
 ## Dependencies
 - `streamlit`
 - `pandas`
 - `plotly`
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [Streamlit](https://streamlit.io/)
